@@ -2,7 +2,6 @@
   <h1>.Ack. </br>Ninja</h1>
   <h2><a href="https://discord.gg/2tUCPMyf2M"><img src="https://c.tenor.com/GBYqevwUXwEAAAAM/matrix-neo.gif"/>
   </a></h2>
-  <h2>.Hack.</br>Knowledge</h2>
 </section>
 <section align='center'> 
   <h2><a href="mailto:contact@ack.ninja">Contact</a></h1>
