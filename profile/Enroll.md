@@ -11,6 +11,8 @@ If you're here you may be courious
 
 If you're courious you may love knowledge
 
+If you love knowledge, you may want to join us !
+
 <section align='center'> 
   <h2><a href="https://discord.gg/2tUCPMyf2M">🧑‍💻 Join us ! 🚀</a></h2>
 </section>
