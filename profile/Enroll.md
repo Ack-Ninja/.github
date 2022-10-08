@@ -14,7 +14,7 @@ If you're courious you may love knowledge
 If you love knowledge, you may want to join us !
 
 <section align='center'> 
-  <h2><a href="https://discord.gg/2tUCPMyf2M">🧑‍💻 Join us ! 🚀</a></h2>
+  <h2><a href="https://discord.gg/2tUCPMyf2M">🧑‍💻 Hack Knowledge ! 🚀</a></h2>
 </section>
 
 ### CPOs
